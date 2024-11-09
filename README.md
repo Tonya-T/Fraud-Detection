@@ -1,1 +1,1 @@
-Fraud Detection for the highly imbalanced data
+Fraud Detection for highly imbalanced data
